@@ -6,6 +6,10 @@ Created by
 
 Betrüger nutzen häufig die Syskey-Anwendung, um die Windows-Kontodatenbank des Opfers zu verschlüsseln. Mit dieser Anwendung täuschen sie den Betrüger vor, die Windows-Kontodatenbank zu verschlüsseln! 
 
+# Features
+* Sieht täuschend echt aus.
+* Speichert das Passwort unter `%APPDATA%\Exploitox\FakeSyskey`
+
 # Build
  Die Anwendung wurde mit Visual Studio 2019 geschrieben. Ein einfaches Öffnen des Projekts genügt.
 
